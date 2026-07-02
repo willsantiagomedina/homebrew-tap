@@ -3,7 +3,7 @@
 
 cask "panda-app" do
   version "0.1.3"
-  sha256 "06061b9fd036829ab360d6b2bed76bd6dfe7249624ddf87504994f6fa2c4a6ee"
+  sha256 "29c28c052468e86f51c035ab2806642d7237f15c557dbd51ac85d9d41187b6ed"
 
   url "https://github.com/willsantiagomedina/panda/releases/download/v0.1.3/panda-macos-arm64.dmg"
   name "Panda"

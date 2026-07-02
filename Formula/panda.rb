@@ -7,7 +7,7 @@ class Panda < Formula
   homepage "https://givepanda.tech/"
   url "https://github.com/willsantiagomedina/panda/releases/download/v0.1.3/panda-macos-arm64.tar.gz"
   version "0.1.3"
-  sha256 "0c880913123691f0120a896f29c8278f4870c08cf91a1f615cea2b612229d43c"
+  sha256 "38c239f450ad87bcf3755374c063f710fa0d0d98bd6402cb584dfa770e5a7faf"
 
   depends_on arch: :arm64
   depends_on macos: ">= :ventura"
