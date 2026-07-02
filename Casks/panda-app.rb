@@ -2,10 +2,10 @@
 # frozen_string_literal: true
 
 cask "panda-app" do
-  version "0.1.2"
-  sha256 "c2eba9585b925a140b1d9f739a64ebfef9862f4b8566fcddd480a8af84abbcb9"
+  version "0.1.3"
+  sha256 "06061b9fd036829ab360d6b2bed76bd6dfe7249624ddf87504994f6fa2c4a6ee"
 
-  url "https://github.com/willsantiagomedina/panda/releases/download/v0.1.2/panda-macos-arm64.dmg"
+  url "https://github.com/willsantiagomedina/panda/releases/download/v0.1.3/panda-macos-arm64.dmg"
   name "Panda"
   desc "Tiling window manager written in Zig"
   homepage "https://givepanda.tech/"
