@@ -5,9 +5,9 @@
 class Panda < Formula
   desc "Tiling window manager written in Zig"
   homepage "https://givepanda.tech/"
-  url "https://github.com/willsantiagomedina/panda/releases/download/v0.1.3/panda-macos-arm64.tar.gz"
-  version "0.1.3"
-  sha256 "0c880913123691f0120a896f29c8278f4870c08cf91a1f615cea2b612229d43c"
+  url "https://github.com/willsantiagomedina/panda/releases/download/v0.1.4/panda-macos-arm64.tar.gz"
+  version "0.1.4"
+  sha256 "0ce28d5eac379fcdb9d8ae3349c40d699500efa7c8e11d7e8c29ecaaac7641e7"
 
   depends_on arch: :arm64
   depends_on macos: :ventura
